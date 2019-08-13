@@ -55,7 +55,7 @@ THE SOFTWARE.
   s.preserve_paths = 'GrowingTouchKit/ReleaseNote.md', 'GrowingTouchKit/VERSION'
 
   s.dependency 'GrowingAutoTrackKit', '>= 2.8.0'
-#s.dependency 'GrowingPushKit', '>= 0.3.0'
+#   s.dependency 'GrowingPushKit', '>= 0.3.0'
   s.frameworks = 'Foundation'
   s.vendored_frameworks = 'GrowingTouchKit/*.framework'
 
