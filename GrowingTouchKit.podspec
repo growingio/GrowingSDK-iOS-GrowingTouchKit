@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "GrowingTouchKit"
-  s.version      = "0.4.0"
+  s.version      = "0.4.1"
   s.summary      = "GrowingSDK-iOS-GrowingTouchKit"
 
   s.description  = <<-DESC
@@ -55,7 +55,7 @@ THE SOFTWARE.
   s.preserve_paths = 'GrowingTouchKit/ReleaseNote.md', 'GrowingTouchKit/VERSION'
 
   s.dependency 'GrowingAutoTrackKit', '>= 2.8.0'
-  s.dependency 'GrowingPushKit', '0.4.0'
+  s.dependency 'GrowingPushKit', '0.4.1'
   s.frameworks = 'Foundation'
   s.vendored_frameworks = 'GrowingTouchKit/*.framework'
 
